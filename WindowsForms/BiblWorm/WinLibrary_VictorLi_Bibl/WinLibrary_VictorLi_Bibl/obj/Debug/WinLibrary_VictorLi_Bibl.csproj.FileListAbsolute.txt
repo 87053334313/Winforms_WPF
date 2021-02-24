@@ -1,0 +1,6 @@
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\WinLibrary_VictorLi_Bibl\WinLibrary_VictorLi_Bibl\bin\Debug\WinLibrary_VictorLi_Bibl.dll
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\WinLibrary_VictorLi_Bibl\WinLibrary_VictorLi_Bibl\bin\Debug\WinLibrary_VictorLi_Bibl.pdb
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\WinLibrary_VictorLi_Bibl\WinLibrary_VictorLi_Bibl\obj\Debug\WinLibrary_VictorLi_Bibl.csprojAssemblyReference.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\WinLibrary_VictorLi_Bibl\WinLibrary_VictorLi_Bibl\obj\Debug\WinLibrary_VictorLi_Bibl.csproj.CoreCompileInputs.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\WinLibrary_VictorLi_Bibl\WinLibrary_VictorLi_Bibl\obj\Debug\WinLibrary_VictorLi_Bibl.dll
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\WinLibrary_VictorLi_Bibl\WinLibrary_VictorLi_Bibl\obj\Debug\WinLibrary_VictorLi_Bibl.pdb

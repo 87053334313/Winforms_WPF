@@ -1,0 +1,11 @@
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csprojAssemblyReference.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources

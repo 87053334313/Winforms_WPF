@@ -1,0 +1,15 @@
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\bin\Debug\WpfRoutedEvent_2_2.exe.config
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\bin\Debug\WpfRoutedEvent_2_2.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\bin\Debug\WpfRoutedEvent_2_2.pdb
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.csprojAssemblyReference.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\MainWindow.g.cs
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\App.g.cs
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2_MarkupCompile.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2_MarkupCompile.lref
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\MainWindow.baml
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.g.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.Properties.Resources.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.csproj.GenerateResource.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.csproj.CoreCompileInputs.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.pdb

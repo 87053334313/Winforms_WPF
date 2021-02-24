@@ -1,0 +1,10 @@
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\bin\Debug\TestList.exe.config
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\bin\Debug\TestList.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\bin\Debug\TestList.pdb
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\obj\Debug\TestList.Form1.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\obj\Debug\TestList.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\TestList\TestList\obj\Debug\TestList.pdb

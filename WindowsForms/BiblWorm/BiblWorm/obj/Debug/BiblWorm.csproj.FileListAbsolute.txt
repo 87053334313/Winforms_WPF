@@ -1,0 +1,10 @@
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csprojAssemblyReference.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.GenerateResource.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\VictorLi\Desktop\Git_Hub_WindowsForms\BiblWorm\BiblWorm\obj\Debug\BiblWorm.pdb
